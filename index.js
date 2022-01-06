@@ -1,9 +1,9 @@
 let pesoPeca = 150
 
 if (pesoPeca > 100) {
-    console.log("Peço maior que 100g, podemos cadastrar a peça!")
+    console.log("Peso maior que 100g, podemos cadastrar a peça!")
 } else {
-    console.log("Peço insuficiente, a peça não pode ser cadastrada!")
+    console.log("Peso insuficiente, a peça não pode ser cadastrada!")
 }
 
 let numeroPecas = 9
